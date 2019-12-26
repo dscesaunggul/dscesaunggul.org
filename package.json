@@ -1,0 +1,26 @@
+{
+  "name": "dscesaunggul.org",
+  "version": "1.0.0",
+  "description": "Esa Unggul University Developer Student Club Static Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dscesaunggul/dscesaunggul.org.git"
+  },
+  "keywords": [
+    "static",
+    "web"
+  ],
+  "author": "DSC Esa Unggul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dscesaunggul/dscesaunggul.org/issues"
+  },
+  "homepage": "https://github.com/dscesaunggul/dscesaunggul.org#readme",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  }
+}
