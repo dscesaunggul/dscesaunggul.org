@@ -34,6 +34,9 @@ make build
 |-src
 |--fonts (static fonts)
 |--images (static images)
+|--styles (stylus file)
+|----global (stylus for global page)
+|----pages (stylus for specific page)
 |--components 
 |----global (components can be apply at some page)
 |------{component_name}
