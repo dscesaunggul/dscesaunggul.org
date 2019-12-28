@@ -1,5 +1,6 @@
 import React from "react"
 import "bulma/css/bulma.min.css"
+import "./index.styl"
 
 const IndexPage = () => (
   <div className="container is-fluid">
